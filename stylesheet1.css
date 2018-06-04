@@ -34,7 +34,7 @@ body{
     color: #CBCAC8;
 }
 .image{
-    border: 2px #013B59;
+    border: 3px #013B59;
 }
 .image:hover{
     transition: 0.3s background-color;
