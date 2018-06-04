@@ -1,0 +1,1 @@
+$('body').append('<a href="https://google.com">Google</a>');
